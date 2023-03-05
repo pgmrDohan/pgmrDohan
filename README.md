@@ -58,4 +58,5 @@
 <h2 align="center">📌 Archive</h2>
 <p align="center">
 <a href="https://github.com/Archive-ToyProjects" target="_blank"><img src="https://img.shields.io/badge/ToyProjects-6E6E6D?style=flat-square&logo=opencontainersinitiative&logoColor=white"/></a>
+<a href="https://github.com/Archive-Books" target="_blank"><img src="https://img.shields.io/badge/Books-343148?style=flat-square&logo=BookStack&logoColor=white"/></a>
 </p>
