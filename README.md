@@ -1,6 +1,4 @@
-<h1></h1>
-
-<h3 align="center">📌 Links</h3>
+<h2 align="center">📌 About</h2>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDohan-lab&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
   <a href="https://bit.ly/3pLMann" target="_blank"><img src="https://img.shields.io/badge/Notion-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -57,4 +55,7 @@
 <a href="http://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921" target="_blank"><img src="https://img.shields.io/badge/정보처리기능사 | 2022-50586C?style=flat-square&logo=amazonec2&logoColor=white"/></a>
 </p>
 
-<h1></h1>
+<h2 align="center">📌 Archive</h2>
+<p align="center">
+<a href="https://github.com/Archive-ToyProjects" target="_blank"><img src="https://img.shields.io/badge/ToyProjects-6E6E6D?style=flat-square&logo=opencontainersinitiative&logoColor=white"/></a>
+</p>
