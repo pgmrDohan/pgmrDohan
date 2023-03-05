@@ -5,7 +5,7 @@
   <a href="https://open.kakao.com/o/sfVrHdVe" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-331B3F?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
   <a href="mailto:dohan.k764@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0A174E?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br>
-  <a href="https://www.buymeacoffee.com/dohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/dohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="20%" ></a>
 </p>
 
 <h3 align="center">🖥 Skills</h3>
