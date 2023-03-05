@@ -5,6 +5,9 @@
   <a href="https://open.kakao.com/o/sfVrHdVe" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-331B3F?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
   <a href="mailto:dohan.k764@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0A174E?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br>
+  <a href="https://github.com/Archive-ToyProjects" target="_blank"><img src="https://img.shields.io/badge/ToyProjects-6E6E6D?style=flat-square&logo=opencontainersinitiative&logoColor=white"/></a>
+<a href="https://github.com/Archive-Books" target="_blank"><img src="https://img.shields.io/badge/Books-343148?style=flat-square&logo=BookStack&logoColor=white"/></a>
+  <br>
   <a href="https://www.buymeacoffee.com/dohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210px" ></a>
 </p>
 
@@ -55,8 +58,4 @@
 <a href="http://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921" target="_blank"><img src="https://img.shields.io/badge/정보처리기능사 | 2022-50586C?style=flat-square&logo=amazonec2&logoColor=white"/></a>
 </p>
 
-<h2 align="center">📌 Archive</h2>
-<p align="center">
-<a href="https://github.com/Archive-ToyProjects" target="_blank"><img src="https://img.shields.io/badge/ToyProjects-6E6E6D?style=flat-square&logo=opencontainersinitiative&logoColor=white"/></a>
-<a href="https://github.com/Archive-Books" target="_blank"><img src="https://img.shields.io/badge/Books-343148?style=flat-square&logo=BookStack&logoColor=white"/></a>
-</p>
+<h1/>
