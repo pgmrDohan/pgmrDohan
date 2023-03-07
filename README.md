@@ -1,12 +1,10 @@
 <h2 align="center">📌 About</h2>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDohan-lab&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
+  <a href="https://github.com/Archive-ToyProjects" target="_blank"><img src="https://img.shields.io/badge/ToyProjects-6E6E6D?style=flat-square&logo=opencontainersinitiative&logoColor=white"/></a>
+<a href="https://github.com/Archive-Books" target="_blank"><img src="https://img.shields.io/badge/Books-343148?style=flat-square&logo=BookStack&logoColor=white"/></a><br>
   <a href="https://velog.io/@dohan_" target="_blank"><img src="https://img.shields.io/badge/Velog-282828?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://open.kakao.com/o/sfVrHdVe" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-331B3F?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
   <a href="mailto:dohan.k764@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0A174E?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <br>
-  <a href="https://github.com/Archive-ToyProjects" target="_blank"><img src="https://img.shields.io/badge/ToyProjects-6E6E6D?style=flat-square&logo=opencontainersinitiative&logoColor=white"/></a>
-<a href="https://github.com/Archive-Books" target="_blank"><img src="https://img.shields.io/badge/Books-343148?style=flat-square&logo=BookStack&logoColor=white"/></a>
   <br>
   <a href="https://www.buymeacoffee.com/dohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210px" ></a>
 </p>
